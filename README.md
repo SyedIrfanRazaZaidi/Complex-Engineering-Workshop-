@@ -11,7 +11,7 @@ The labs are designed to provide **hands-on practice** with **C programming** an
 - **Course Title:** Computer Engineering Workshop (CEW)  
 - **University:** NED University of Engineering & Technology  
 - **Department:** Computer & Information Systems Engineering  
-- **Instructor(s):** Miss Hina Danish
+- **Instructor(s):** Ms. Hina Danish
 
 ---
 
